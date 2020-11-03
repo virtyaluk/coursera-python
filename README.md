@@ -4,9 +4,9 @@ Programming for Everybody (Getting Started with Python)](https://www.coursera.or
 - Course 2 - [
 Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python) - [Certificate](https://www.coursera.org/account/accomplishments/verify/F53SQJL79DX6)
 - Course 3 - [
-Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data?specialization=python) - [Certificate](https://www.coursera.org/account/accomplishments/verify/PC3B328H8T6M) - [Certificate](https://www.coursera.org/account/accomplishments/verify/7MXYKGM5P3PR)
+Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data?specialization=python) - [Certificate](https://www.coursera.org/account/accomplishments/verify/PC3B328H8T6M)
 - Course 4 - [
-Using Databases with Python](https://www.coursera.org/learn/python-databases?specialization=python)
+Using Databases with Python](https://www.coursera.org/learn/python-databases?specialization=python) - [Certificate](https://www.coursera.org/account/accomplishments/verify/7MXYKGM5P3PR)
 - Course 5 - [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization) - [Certificate](https://www.coursera.org/account/accomplishments/verify/78UJGZLHCW7W)
 
 
